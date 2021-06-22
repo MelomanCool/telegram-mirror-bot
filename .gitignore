@@ -1,0 +1,5 @@
+__pycache__/
+/venv/
+/last_chat_photos
+/last_user_photos
+/config.py
